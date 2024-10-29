@@ -16,7 +16,7 @@
   - Line and scatter plots comparing predicted vs. actual values, with a regression line and displayed R2 score.
 - **Results**:
 
-- - The **Support Vector Regression** model achieved the highest performance with the lowest RMSE and the highest R2 score.
+- The **Support Vector Regression** model achieved the highest performance with the lowest RMSE and the highest R2 score.
 
 | Model                         |    RMSE    |     R²     |
 |-------------------------------|------------|------------|
