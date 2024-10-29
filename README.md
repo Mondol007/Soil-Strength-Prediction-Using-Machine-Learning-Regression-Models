@@ -16,10 +16,16 @@
   - Line and scatter plots comparing predicted vs. actual values, with a regression line and displayed R2 score.
 - **Results**:
 - The **Support Vector Regression** model achieved the highest performance with the lowest RMSE and the highest R2 score.
-| Model                  | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
-|------------------------|--------------|---------------|------------|--------------|
-| **Random Forest**       | 98.47        | 98.50         | 98.49      | 98.49        |
-| **K-Nearest Neighbors** | 95.41        | 95.69         | 95.44      | 95.47        |
-| **Gradient Boosting**   | 97.18        | 97.23         | 97.20      | 97.22        |
+| Model                         |    RMSE    |     R²     |
+|-------------------------------|------------|------------|
+| **Linear Regression**         |   5.024    |   0.680    |
+| **K-Nearest Neighbors**       |   4.805    |   0.708    |
+| **Ridge Regression**          |   5.024    |   0.680    |
+| **Lasso Regression**          |   4.845    |   0.703    |
+| **Decision Tree**             |   6.286    |   0.500    |
+| **Random Forest Regressor**   |   4.759    |   0.713    |
+| **Support Vector Regression** |   4.402    |   0.754    |
+| **Multi-Layer Perceptron**    |   5.425    |   0.627    |
+
 
 
