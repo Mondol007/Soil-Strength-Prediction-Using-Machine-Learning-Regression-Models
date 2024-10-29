@@ -24,7 +24,7 @@
 | **Lasso Regression**          |   4.845    |   0.703    |
 | **Decision Tree**             |   6.286    |   0.500    |
 | **Random Forest Regressor**   |   4.759    |   0.713    |
-| **Support Vector Regression** |   4.402    |   0.754    |
+| **Support Vector Regression** |   **4.402**    |   **0.754**    |
 | **Multi-Layer Perceptron**    |   5.425    |   0.627    |
 
 
